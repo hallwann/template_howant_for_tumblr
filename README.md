@@ -1,4 +1,4 @@
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://github.com/howwant/template_howant_for_tumblr/blob/master/Thumbnail.jpg)
 #step 1. You need to register a tumblr passport （huh）.
 
 #step 2. Find the gear icon at the top of your Tumblr dashboard.
